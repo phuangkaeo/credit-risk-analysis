@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-(เนื้อหาจาก remote/GitHub)
-=======
+
 .env
 data/raw/
 *.pbix
 __pycache__/
 *.pyc
 .venv/
->>>>>>> (branch อื่น)
