@@ -1,0 +1,13 @@
+# Credentials — ห้ามหลุดเด็ดขาด
+.env
+
+# ข้อมูลดิบที่ดึงมา
+data/raw/
+
+# ไฟล์ Excel/PowerBI ขนาดใหญ่
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
