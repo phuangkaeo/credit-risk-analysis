@@ -1,13 +1,10 @@
-# Credentials — ห้ามหลุดเด็ดขาด
+<<<<<<< HEAD
+(เนื้อหาจาก remote/GitHub)
+=======
 .env
-
-# ข้อมูลดิบที่ดึงมา
 data/raw/
-
-# ไฟล์ Excel/PowerBI ขนาดใหญ่
 *.pbix
-
-# Python
 __pycache__/
 *.pyc
 .venv/
+>>>>>>> (branch อื่น)
