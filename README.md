@@ -276,5 +276,5 @@ directly, and saying so explicitly is part of the deliverable.
 
 ## 10. Author
 
-**Janusz Phuangkaeo** — Data Analyst trainee, M2i Formation Lille
+**Phichet Phuangkaeo** — Data Analyst trainee, M2i Formation Lille
 Repo: [`phuangkaeo/credit-risk-analysis`](https://github.com/phuangkaeo/credit-risk-analysis)
